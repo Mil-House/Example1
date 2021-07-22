@@ -306,11 +306,11 @@ header {
     }
 
     .line-top {
-        margin-top: 0px; /* 3 */
+        margin-top: 8px; /* 3 */
     }
 
     .line-bottom {
-        margin-top: -12px;
+        margin-top: -8px; /* -12 */
     }
 
     .active .line-top {
