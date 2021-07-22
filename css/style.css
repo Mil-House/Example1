@@ -78,13 +78,13 @@ header {
 .nav-link-search {
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/img/search.svg") center no-repeat;
+    background: url("https://Mil-House.github.io/Example1/img/search.svg") center no-repeat;
 }
 
 .nav-link-bag {
     width: 1.4rem;
     height: 4.4rem;
-    background: url("/img/bag.svg") center no-repeat;
+    background: url("https://Mil-House.github.io/Example1/img/bag.svg") center no-repeat;
 }
 
 /* https://Mil-House.github.io/Example1/img/... */
@@ -94,7 +94,7 @@ header {
 
 /*==== Milhouse-banner Section ====*/
 .milhouse-banner {
-    background: url("/img/imphoto_pro.jpg");
+    background: url("https://Mil-House.github.io/Example1/img/imphoto_pro.jpg");
     margin-top: 4.4rem;
 }
 
@@ -145,7 +145,7 @@ header {
 
 /*==== Milhouse Section ====*/
 .milhouse {
-    background: url("/img/iphone_11_large.jpg");
+    background: url("https://Mil-House.github.io/Example1/img/iphone_11_large.jpg");
 }
 
 .title-dark {
@@ -161,12 +161,12 @@ header {
 }
 
 .watch {
-    background: url("/img/watch_large.jpg");
+    background: url("https://Mil-House.github.io/Example1/img/watch_large.jpg");
 }
 
 .title-heading-watch {
     height: 7.8rem;
-    background: url("/img/logo_watch_large.png") center no-repeat;
+    background: url("https://Mil-House.github.io/Example1/img/logo_watch_large.png") center no-repeat;
     background-size: auto 7.8rem;
     margin-top: 1.6rem;
 }
@@ -190,15 +190,15 @@ header {
 @media screen and (max-width: 1068px)
 {
     .milhouse-banner {
-        background: url("/img/iphone_11_pro_medium.jpg");
+        background: url("https://Mil-House.github.io/Example1/img/iphone_11_pro_medium.jpg");
     }
 
     .milhouse {
-        background: url("/img/iphone_11_medium.jpg");
+        background: url("https://Mil-House.github.io/Example1/img/iphone_11_medium.jpg");
     }
 
     .watch {
-        background: url("/img/watch_medium.jpg");
+        background: url("https://Mil-House.github.io/Example1/img/watch_medium.jpg");
     }
 
     .hero {
@@ -222,7 +222,7 @@ header {
 
     .title-heading-watch {
         height: 6.2rem;
-        background: url("/img/logo_watch_medium.png") center no-repeat;
+        background: url("https://Mil-House.github.io/Example1/img/logo_watch_medium.png") center no-repeat;
         background-size: auto 6.2rem;
     }
 }
@@ -408,15 +408,15 @@ header {
 @media screen and (max-width: 735px)
 {
     .milhouse-banner {
-        background: url("/img/iphone_11_pro_small.jpg");
+        background: url("https://Mil-House.github.io/Example1/img/iphone_11_pro_small.jpg");
     }
 
     .milhouse {
-        background: url("/img/iphone_11_small.jpg");
+        background: url("https://Mil-House.github.io/Example1/img/iphone_11_small.jpg");
     }
 
     .watch {
-        background: url("/img/watch_small.jpg");
+        background: url("https://Mil-House.github.io/Example1/img/watch_small.jpg");
     }
 
     .hero {
