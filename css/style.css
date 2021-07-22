@@ -159,12 +159,12 @@ header {
 }
 
 .watch {
-    background: url("/img/watch_large.jpg");
+    background: url("https://Mil-House.github.io/Example1/img/watch_large.jpg");
 }
 
 .title-heading-watch {
     height: 7.8rem;
-    background: url("/img/logo_watch_large.png") center no-repeat;
+    background: url("https://Mil-House.github.io/Example1/img/logo_watch_large.png") center no-repeat;
     background-size: auto 7.8rem;
     margin-top: 1.6rem;
 }
@@ -247,7 +247,7 @@ header {
 
     .nav-list-mobile {
         display: flex;
-        /*padding: 2px 1rem;  added from me */
+        padding: 2px 1rem;  /* added from me */
     }
 
     .nav-item {
